@@ -1,0 +1,59 @@
+name: "\U0001F4E6 New repository proposal"
+description: Propose a new project/repository under the organization (contributors only)
+title: "[New repo]: "
+labels: ["type: new-repo", "status: needs-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this to propose a brand-new project under the org. A maintainer will review and, once approved, create the repo from our [`project-template`](https://github.com/[org-name]/project-template).
+
+  - type: input
+    id: name
+    attributes:
+      label: Proposed repository name
+      placeholder: "e.g. campus-events-bot"
+    validations:
+      required: true
+
+  - type: textarea
+    id: purpose
+    attributes:
+      label: What is this project and why does it belong here?
+      description: Problem it solves, who it's for, why it fits the club
+    validations:
+      required: true
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Web / mobile development
+        - Embedded software / IoT
+        - Bash / automation scripts
+        - AI tools & applications
+        - CLI tools / developer utilities
+        - Game development
+        - Browser extensions
+        - Data pipelines & analysis
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: license
+    attributes:
+      label: Proposed license
+      description: Default is MIT unless there's a reason for something else
+      placeholder: "MIT"
+    validations:
+      required: false
+
+  - type: textarea
+    id: owner
+    attributes:
+      label: Who will maintain this?
+      description: You, plus anyone else committing to ongoing maintenance
+    validations:
+      required: true
