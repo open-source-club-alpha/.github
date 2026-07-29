@@ -15,14 +15,25 @@
 
 We're a student club at [University Name] building open-source software together. Whether you're writing your first pull request or leading a project, there's a place for you here.
 
-## What we're working on
+## What we work on
+ 
+At Open-source Club (alpha), we believe any piece of code is worth writing if it solves a problem or does something in a new, interesting way. Here, you'll find:
+- 🧩 a module someone needed for a bigger project
+- 🌙 a script that fixed a very specific problem at 3AM
+- 🛠️ a tool you'll use once a month and still feel proud to have built
 
-| Project | Description | Status |
-|---|---|---|
-| [`repo-one`](https://github.com/open-source-club-alpha) | One-line description | 🟢 Active |
-| [`repo-two`](https://github.com/open-source-club-alpha) | One-line description | 🟡 Early stage |
+We work across all kinds of areas, including but not limited to:
+- 🌐 web & mobile development
+- 🔌 embedded software & IoT
+- 🤖 bash & automation scripts
+- 🧠 AI tools & applications
+- ⌨️ CLI tools & developer utilities
+- 🎮 game development
+- 🧭 browser extensions
+- 📊 data pipelines & analysis
+- 🌱 open-source contributions to existing projects
 
-*Browse all repositories → [github.com/orgs/open-source-club-alpha/repositories](https://github.com/orgs/open-source-club-alpha/repositories)*
+*Browse all our repositories → [github.com/orgs/open-source-club-alpha/repositories](https://github.com/orgs/open-source-club-alpha/repositories)*
 
 ## Get involved
 
