@@ -34,7 +34,7 @@ We're a student club at [University Name] building open-source software together
 ## Community
 
 - 📣 Announcements: [Discussions → Announcements](https://github.com/orgs/open-source-club-alpha/discussions/categories/announcements)
-- 🤝 Code of Conduct: [CODE_OF_CONDUCT.md](https://github.com/open-source-club-alpha/.github/blob/main/CODE_OF_CONDUCT.md)
+- 🤝 Code of Conduct: [CODE_OF_CONDUCT.md](https://github.com/open-source-club-alpha/.github/CODE_OF_CONDUCT.md)
 - 📅 We meet [when/where, e.g. "every other Wednesday, Room X"]
 - ✉️ Contact: [email or Discord/Slack link]
 
