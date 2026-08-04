@@ -1,13 +1,13 @@
 # Contributing to Open-source Club (alpha)
 
-Thanks for wanting to contribute! This guide covers everything you need to go from "browsing the repo" to "merged pull request." If anything here is unclear, ask in [Discussions → Q&A](https://github.com/orgs/open-source-club-alpha/discussions/categories/q-a) — unclear docs are a bug too, and we'd rather fix them.
+Thanks for wanting to contribute! This guide covers everything you need to go from "browsing the repo" to "merged pull request." If anything here is unclear, ask in [Discussions → Q&A](https://github.com/orgs/osc-upt/discussions/categories/q-a) — unclear docs are a bug too, and we'd rather fix them.
 
 By participating, you agree to follow our [Code of Conduct](./CODE_OF_CONDUCT.md).
 
 ## Ways to contribute
 
 You don't need to write code to contribute:
-- 💡 Propose an idea in [Discussions → Ideas](https://github.com/orgs/open-source-club-alpha/discussions/categories/ideas)
+- 💡 Propose an idea in [Discussions → Ideas](https://github.com/orgs/osc-upt/discussions/categories/ideas)
 - 🐛 Report a bug via an Issue
 - 📖 Improve documentation
 - 🎨 Design, UX feedback, testing
@@ -15,8 +15,8 @@ You don't need to write code to contribute:
 
 ## Finding something to work on
 
-- New here? Look for issues labeled [`good first issue`](https://github.com/search?q=org%3Aopen-source-club-alpha+label%3A%22good+first+issue%22&type=issues) — scoped and beginner-friendly.
-- Want more of a challenge? Try [`help wanted`](https://github.com/search?q=org%3Aopen-source-club-alpha+label%3A%22help+wanted%22&type=issues).
+- New here? Look for issues labeled [`good first issue`](https://github.com/search?q=org%3Aosc-upt+label%3A%22good+first+issue%22&type=issues) — scoped and beginner-friendly.
+- Want more of a challenge? Try [`help wanted`](https://github.com/search?q=org%3Aosc-upt+label%3A%22help+wanted%22&type=issues).
 - **Claim an issue before starting**: comment "I'd like to work on this" and wait for a maintainer to assign it to you. This avoids two people duplicating work.
 - If an issue is assigned but has gone quiet for over a week, feel free to comment and ask if it's still being worked on.
 
@@ -72,4 +72,4 @@ git remote add upstream https://github.com/[org-name]/<repo-name>.git
 
 ## Questions?
 
-Ask in [Discussions](https://github.com/orgs/open-source-club-alpha/discussions) or reach out to a maintainer directly. Don't hesitate — every contributor was new once.
+Ask in [Discussions](https://github.com/orgs/osc-upt/discussions) or reach out to a maintainer directly. Don't hesitate — every contributor was new once.
