@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Use this to propose a brand-new project under the org. A maintainer will review and, once approved, create the repo from our [`project-template`](https://github.com/[org-name]/project-template).
+        Use this to propose a brand-new project under the org. A maintainer will review and, once approved, create the repo from our [`project-template`](https://github.com/osc-upt/project-template).
 
   - type: input
     id: name
